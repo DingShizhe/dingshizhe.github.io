@@ -21,7 +21,7 @@ $$\tan (x+y) = \frac{\tan x + \tan y}{1 - \tan x \tan y}$$
 
 $$F(y)=\int_{\alpha(x)}^{\beta(x)}f(x,y)dx $$
 
-$$F'(y)=f(\beta(y),y)\cdot\beta'(y) + f(\alpha(y),y)\cdot\alpha'(y)+\int_{\alpha(y)}^{\beta(y)}\frac{\partial f}{\partial y}(x, y)dx$$
+$$e^{i\theta}=\cos\theta+i\sin\theta$$
 
 ### Test for C Codes
 {% highlight C linenos%}
