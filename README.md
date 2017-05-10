@@ -1,4 +1,3 @@
-<<<<<<< 92468369b6015777910b1ffcbc8fb62dbf0f4c56
 # dingshizhe.github.io
 =======
 # READ ME
@@ -11,9 +10,9 @@ I want to build it when I was young. Last month, I started to do it.
 
 For several weeks, day and night, I think about the purpose of my life. I try to find where is the values of my fate.
 
-Though I havenot got the finial answer, I realize I need do something special. 
+Though I havenot got the finial answer, I realize I need do something special.
 
-I believe a little bit that the purpose of my life is no other than myself, and that the values I should quest must be different. 
+I believe a little bit that the purpose of my life is no other than myself, and that the values I should quest must be different.
 
 *Values come from differences. I am the unique.*
 
@@ -23,5 +22,4 @@ Therefore I build this site, named after me.
 
 ##
 @Xiang   
-©️ All Rights Reserved. 
->>>>>>> myblog-v-0.0
+©️ All Rights Reserved.
