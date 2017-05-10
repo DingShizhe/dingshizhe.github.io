@@ -1,6 +1,3 @@
-<<<<<<< 92468369b6015777910b1ffcbc8fb62dbf0f4c56
-# dingshizhe.github.io
-=======
 # READ ME
 This is a personal website of **DingShizhe**, a college student in UCAS, Beijing, China.  
 
@@ -24,4 +21,3 @@ Therefore I build this site, named after me.
 ##
 @Xiang   
 ©️ All Rights Reserved. 
->>>>>>> myblog-v-0.0
