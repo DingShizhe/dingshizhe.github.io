@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-10T12:26:10+08:00</updated><id>http://localhost:4000/</id><title type="html">Xiang</title><subtitle></subtitle><entry><title type="html">江南</title><link href="http://localhost:4000/jekyll/update/2017/05/09/%E6%B1%9F%E5%8D%97.html" rel="alternate" type="text/html" title="江南" /><published>2017-05-09T16:26:10+08:00</published><updated>2017-05-09T16:26:10+08:00</updated><id>http://localhost:4000/jekyll/update/2017/05/09/%E6%B1%9F%E5%8D%97</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/05/09/%E6%B1%9F%E5%8D%97.html">&lt;h3 id=&quot;江南&quot;&gt;江南&lt;/h3&gt;
+&lt;p&gt;「佚名・汉」&lt;br /&gt;
+江南可采莲，莲叶何田田。 &lt;br /&gt;
+鱼戏莲叶间。 &lt;br /&gt;
+鱼戏莲叶东， 鱼戏莲叶西， 鱼戏莲叶南， 鱼戏莲叶北。&lt;/p&gt;</content><author><name></name></author><summary type="html">江南 「佚名・汉」 江南可采莲，莲叶何田田。 鱼戏莲叶间。 鱼戏莲叶东， 鱼戏莲叶西， 鱼戏莲叶南， 鱼戏莲叶北。</summary></entry><entry><title type="html">Test for Tags</title><link href="http://localhost:4000/jekyll/update/2017/05/09/Test-for-Tags.html" rel="alternate" type="text/html" title="Test for Tags" /><published>2017-05-09T12:10:10+08:00</published><updated>2017-05-09T12:10:10+08:00</updated><id>http://localhost:4000/jekyll/update/2017/05/09/Test-for-Tags</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/05/09/Test-for-Tags.html">&lt;script type=&quot;text/x-mathjax-config&quot;&gt;
+MathJax.Hub.Config({CommonHTML: {scale: 100}});
+&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML&quot;&gt;
+&lt;/script&gt;
+
+&lt;h3 id=&quot;test-for-mathjax&quot;&gt;Test for MathJax&lt;/h3&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\cos^2 x + \sin^2 x = 1&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;\tan (x+y) = \frac{\tan x + \tan y}{1 - \tan x \tan y}&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;F(y)=\int_{\alpha(x)}^{\beta(x)}f(x,y)dx&lt;/script&gt;
+
+&lt;script type=&quot;math/tex; mode=display&quot;&gt;F'(y)=f(\beta(y),y)\cdot\beta'(y) + f(\alpha(y),y)\cdot\alpha'(y)+\int_{\alpha(y)}^{\beta(y)}\frac{\partial f}{\partial y}(x, y)dx&lt;/script&gt;
+
+&lt;h3 id=&quot;test-for-c-codes&quot;&gt;Test for C Codes&lt;/h3&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-c&quot; data-lang=&quot;c&quot;&gt;&lt;table style=&quot;border-spacing: 0&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;gutter gl&quot; style=&quot;text-align: right&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;cp&quot;&gt;#inlude &amp;lt;stdio.h&amp;gt;
+&lt;/span&gt;&lt;span class=&quot;kt&quot;&gt;int&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;main&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(){&lt;/span&gt;
+    &lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello, world!&lt;/span&gt;&lt;span class=&quot;se&quot;&gt;\n&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;return&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;0&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;&lt;span class=&quot;w&quot;&gt;
+&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;</content><author><name></name></author><category term="test" /><summary type="html"></summary></entry><entry><title type="html">Hello World</title><link href="http://localhost:4000/jekyll/update/2017/05/09/Hello-World-!.html" rel="alternate" type="text/html" title="Hello World" /><published>2017-05-09T11:26:10+08:00</published><updated>2017-05-09T11:26:10+08:00</updated><id>http://localhost:4000/jekyll/update/2017/05/09/Hello-World-!</id><content type="html" xml:base="http://localhost:4000/jekyll/update/2017/05/09/Hello-World-!.html">&lt;h2 id=&quot;hello-world&quot;&gt;Hello, world！&lt;/h2&gt;</content><author><name></name></author><summary type="html">Hello, world！</summary></entry></feed>
