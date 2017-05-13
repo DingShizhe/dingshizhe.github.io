@@ -53,7 +53,7 @@ textile_ext:   textile
 
 excerpt_separator: "\n\n"
 
-safe:        true
+safe:        false
 watch:       false    # deprecated
 server:      false    # deprecated
 host:        0.0.0.0
