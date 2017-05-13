@@ -16,15 +16,81 @@
 title: Xiang
 email: dingshizhe@gmail.com
 description: > # 相，从目从木。省视也。《易》曰：“地可观者，莫可观於木。”
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  DingShizhe
 
 # Build settings
-markdown: kramdown
 theme: minima
-gems:
-  - jekyll-feed
-exclude:
+
+source:      .
+destination: ./_site
+plugins:     ./_plugins
+layouts:     ./_layouts
+include:     ['.htaccess']
+exclude:     []
   - Gemfile
   - Gemfile.lock
+
+keep_files:  ['.git','.svn']
+gems:        []
+  - jekyll-feed
+timezone:    nil
+encoding:    nil
+
+future:      true
+show_drafts: nil
+limit_posts: 0
+highlighter: pygments
+
+relative_permalinks: true
+
+permalink:     date
+paginate_path: 'page:num'
+paginate:      nil
+
+markdown:      maruku
+markdown_ext:  markdown,mkd,mkdn,md
+textile_ext:   textile
+
+excerpt_separator: "\n\n"
+
+safe:        false
+watch:       false    # deprecated
+server:      false    # deprecated
+host:        0.0.0.0
+port:        4000
+baseurl:     /  # the subpath of your site, e.g. /blog
+url:         http://localhost:4000  # the base hostname & protocol for your site, e.g. http://example.com
+lsi:         false
+
+maruku:
+  use_tex:    false
+  use_divs:   false
+  png_engine: blahtex
+  png_dir:    images/latex
+  png_url:    /images/latex
+  fenced_code_blocks: true
+
+rdiscount:
+  extensions: []
+
+redcarpet:
+  extensions: []
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  use_coderay: false
+
+  coderay:
+    coderay_wrap: div
+    coderay_line_numbers: inline
+    coderay_line_numbers_start: 1
+    coderay_tab_width: 4
+    coderay_bold_every: 10
+    coderay_css: style
+
+redcloth:
+  hard_breaks: true
