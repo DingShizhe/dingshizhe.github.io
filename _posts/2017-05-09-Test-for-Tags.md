@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Test for Tags"
+title:  Test for Tags
 date:   2017-05-09 12:10:10 +0800
-categories: jekyll update
-tags: test
+categories: [jekyll update]
+tags: [test]
 ---
 
 <script type="text/x-mathjax-config">
