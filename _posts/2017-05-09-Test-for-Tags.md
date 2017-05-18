@@ -13,7 +13,7 @@ MathJax.Hub.Config({CommonHTML: {scale: 100}});
 </script>
 
 
-### Test for MathJax
+#### Test for MathJax
 
 $$ \cos^2 x + \sin^2 x = 1 $$   
 
@@ -23,7 +23,7 @@ $$F(y)=\int_{\alpha(x)}^{\beta(x)}f(x,y)dx $$
 
 $$e^{i\theta}=\cos\theta+i\sin\theta$$
 
-### Test for C Codes
+#### Test for C Codes
 {% highlight C linenos%}
 #inlude <stdio.h>
 int main(){
