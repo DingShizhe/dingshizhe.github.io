@@ -8,6 +8,7 @@ theme: minima
 
 about: About me
 post: words
+contect: Contect me
 # source:      .
 # destination: ./_site
 # plugins:     ./_plugins
