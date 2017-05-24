@@ -9,7 +9,8 @@ theme: minima
 about: About me
 post: words
 contect: Contect me
-# source:      .
+source:      .
+sources: ./_sources
 # destination: ./_site
 # plugins:     ./_plugins
 # layouts:     ./_layouts
