@@ -1,10 +1,10 @@
 ---
 layout: about
-title: Sources
+title: 资源
 permalink: /sources/
 ---
 
-# Books
+# 书籍
 
 [Computational Geometry in C](./books/Computational_Geometry_in_C.pdf)
 
