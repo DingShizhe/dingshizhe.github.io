@@ -4,7 +4,6 @@ title: About
 permalink: /about/
 ---
 
-### Xiang
 相，从目从木。
 
 省视也。   
