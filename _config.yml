@@ -1,4 +1,4 @@
-title: Xiang
+title: 相
 email: dingshizhe@gmail.com
 description:  相，从目从木。省视也。《易》曰：“地可观者，莫可观於木。”
 github_username:  DingShizhe
@@ -6,9 +6,9 @@ github_username:  DingShizhe
 # Build settings
 theme: minima
 
-about: About me
-post: words
-contect: Contect me
+about: 关于
+post: 笔记
+contect: 联系我
 source:      .
 sources: ./_sources
 # destination: ./_site
