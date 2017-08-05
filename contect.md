@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 联系
+title: 联系我
 permalink: /contect/
 ---
 
