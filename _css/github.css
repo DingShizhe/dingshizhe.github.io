@@ -1,0 +1,91 @@
+
+body {
+    font-family: Helvetica, arial, sans-serif;
+    font-size: 14px;
+}
+
+.post-title {
+    font-size: 28px;
+    font-weight: 800;
+}
+
+
+.post-content h1 {
+    color: #000000;
+    font-size: 28px;
+    font-weight: 800;
+}
+.post-content h2 {
+    color: #000000;
+    font-size: 24px;
+    font-weight: 800;
+}
+.post-content h3 {
+    color: #333;
+    font-size: 18px;
+    font-weight: 800;
+}
+.post-content h4 {
+    color: #333;
+    font-size: 16px;
+    font-weight: 800;
+}
+
+/*.post-content h5 {*/
+    /*color: #333*/
+    /*font-size: 14px;*/
+    /*font-weight: 800;*/
+/*}*/
+
+.post-content h5,
+.post-content h6 {
+    color: #777777;
+    font-size: 14px;
+    font-weight: 800;
+}
+
+table{
+    display: block;
+    width: 100%;
+    overflow: auto;
+    word-break: normal;
+    word-break: keep-all;
+    border-collapse: collapse;
+    border-spacing: 4px;
+    margin-bottom: 10px;
+}
+
+th {
+    font-weight: bold;
+}
+
+th, td{
+    padding: 6px 13px;
+    border: 1px solid #ddd;
+}
+
+tr {
+    background-color: #fff;
+    border-top: 1px solid #ccc;
+}
+
+tr:nth-child(2n) {
+    background-color: #f8f8f8;
+}
+
+pre, code {
+    font-size: 14px;
+    border: 1px solid #e8e8e8;
+    border-radius: 3px;
+    background-color: #eeeeee;
+    color: #333;
+}
+
+blockquote {
+    color: #828282;
+    border-left: 4px solid #e8e8e8;
+    padding-left: 15px;
+    font-size: 16px;
+    letter-spacing: -1px;
+    font-style: normal;
+}
