@@ -1,21 +1,21 @@
 
 @font-face {
     font-family: "My Consolas";
-    src: url("./fonts/consola.ttf");
+    src: url("/css/fonts/consola.ttf");
 }
 @font-face {
     font-family: "My Consolas";
-    src: url("./fonts/consolab.ttf");
+    src: url("/css/fonts/consolab.ttf");
     font-weight: bold;
 }
 @font-face {
     font-family: "My Consolas";
-    src: url("./fonts/consolai.ttf");
+    src: url("/css/fonts/consolai.ttf");
     font-style: italic, oblique;
 }
 @font-face {
     font-family: "My Consolas";
-    src: url("./fonts/consolaz.ttf");
+    src: url("/css/fonts/consolaz.ttf");
     font-weight: bold;
     font-style: italic, oblique;
 }
