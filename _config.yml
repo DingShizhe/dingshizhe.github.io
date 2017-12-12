@@ -36,7 +36,7 @@ sources: ./_sources
 # paginate_path: 'page:num'
 # paginate:      nil
 
-markdown:      maruku
+markdown:      Kramdown
 # markdown:      redcarpet
 # markdown_ext:  markdown,mkd,mkdn,md
 # textile_ext:   textile
