@@ -1,4 +1,25 @@
 
+@font-face {
+    font-family: "My Consolas";
+    src: url("./fonts/consola.ttf");
+}
+@font-face {
+    font-family: "My Consolas";
+    src: url("./fonts/consolab.ttf");
+    font-weight: bold;
+}
+@font-face {
+    font-family: "My Consolas";
+    src: url("./fonts/consolai.ttf");
+    font-style: italic, oblique;
+}
+@font-face {
+    font-family: "My Consolas";
+    src: url("./fonts/consolaz.ttf");
+    font-weight: bold;
+    font-style: italic, oblique;
+}
+
 body {
     font-family: Helvetica, arial, sans-serif;
     font-size: 14px;
@@ -74,7 +95,7 @@ tr:nth-child(2n) {
 }
 
 pre, code {
-    font-family: Consolas,Menlo,Monaco,"Andale Mono","lucida console","Courier New",monospace;
+    font-family: "My Consolas", Ubuntu,Menlo,Monaco,"Andale Mono","lucida console","Courier New",monospace;
     font-size: 14px;
     border: 1px solid #e8e8e8;
     border-radius: 3px;
